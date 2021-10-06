@@ -1,8 +1,8 @@
 message: message from test property file
-my.list.values: one,two,three,four
+my.list.values: one,two,three,four,five
 mapvalues: "{first:'value1',second:'value2',third:'value3',four:'value4'}"
 testing:
-   listvalues: one,two,three,four
-   mapvalues: "{first:'value1',second:'value2',third:'value3',four:'value4'}"
-   stringvalues: test the string in the test profile
-   intvaues: 200
+   listvalues: one,two,three,four,five
+   mapvalues: "{first:'value1',second:'value2',third:'value3',four:'value4',five:'value5'}"
+   stringvalues: test the string in the test profile from config server
+   intvaues: 20000
