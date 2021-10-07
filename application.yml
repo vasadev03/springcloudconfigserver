@@ -1,4 +1,4 @@
-message: message from test property file from config server
+message: updated message from test property file from config server
 my.list.values: one,two,three,four,five
 mapvalues: "{first:'value1',second:'value2',third:'value3',four:'value4'}"
 testing:
